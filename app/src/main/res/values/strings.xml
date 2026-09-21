@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reel Guru</string>
+    <string name="subtitle">Viral Reels Strategy &amp; Shoot Scripts</string>
+    <string name="generate_tab">Generator</string>
+    <string name="saved_tab">Shoot List</string>
+    <string name="hooks_tab">Hook Vault</string>
+    <string name="niche_label">Creator Niche</string>
+    <string name="generate_button">Generate 3 Viral Scripts</string>
+    <string name="generating_text">Analyzing algorithm &amp; crafting scripts…</string>
+</resources>

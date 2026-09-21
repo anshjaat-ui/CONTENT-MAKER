@@ -1,0 +1,6 @@
+{
+  "name": "Reel Guru",
+  "description": "Trending Instagram & YouTube Reels ideas and ready-to-shoot scripts generator with second-by-second breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
